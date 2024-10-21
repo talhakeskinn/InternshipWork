@@ -1,0 +1,6 @@
+@CalculatorProject_HostAddress = http://localhost:5286
+
+Post {{CalculatorProject_HostAddress}}/Calculator/
+Accept: application/xml
+
+###

@@ -1,0 +1,70 @@
+Projede kullandığımız iki işlem/servis vardır, "StopajHesapService", "UserService"(Basic Authentication için)
+------------------------------------Model-----------------------------------------------------------------------
+Sırayla gidilecek olursa Model klasöründe bu servisler için gerekli olan modelleri;
+ParametersModels(Stopaj hesabı için gerekli parametreler burada tanımlandı)ve buradaki fieldların zorunlu olması için
+[Required] kullanıldı,
+UserModels(Kimlik doğrulaması için gerekli fieldlar burada belirlendi).
+
+-----------------------------------Services----------------------------------------------------------------------------
+Services klasöründe SOLID prensiplerine uyarak kullanılan servislerin Abstraction klasöründe interfaceler aracılığıyla 
+sözleşmelerini koyup Concrete klasöründe fonksiyonları dolduruldu. 
+--------------UserService.cs----------------------------------------------------------------------------------------------------------------------------------------------
+Concerete UserService sınıfında _users nesnesi oluşturulupp sınıfın yapıcı metodunda içine bir değer ataması yapıldı. 
+Login metodu, iki parametre alır username ve password. Bu metod, _users listesinde verilen kullanıcı adı ve şifre 
+kombinasyonuna sahip bir kullanıcıyı arar. FirstOrDefault metodu, bu koşullara uyan ilk kullanıcıyı bulur eğer böyle 
+bir kullanıcı yoksa, null döner. Task.FromResult metodu, bulunan kullanıcıyı Task<UserModel> türünde döndürür.
+
+----------------------------------BasicAuthenticationHandler.cs---------------------------------------------------------
+Handler terimi bir requesti işlemek için kullanılan bir yapıyı ifade eder. Bundan yola çıkarak Handlers klasöründeki 
+BasicAuthenticationHandler sınıfıda authentication işlemi için requesti işlemek için tanımlandı. Bu sınıf hazır 
+AuthenticationHandler sınıfından türetilir. Bu hazır sınıf soyut sınıf yapıcı metodda loglama için gerekli değerleri tanımlamamızı
+gerekli kılar. 
+HandleAuthenticateAsync metodu kimlik doğrulama işlemini gerçekleştirir. Authentication işlemi yapılırken önce HTTP isteğinin
+başlığına bakılır ve bu başlıkta "Authorization" kelimesi aranır. Bu sınıfta ilk olarak if koşulu ile bu işlem aranıldı ve hatalı 
+durumda bir bildirim fırlatıldı.  
+Sonrasında UserModel tipinde bir user nesnesi oluşturulup değeri null olarak atanıldı bu nesne HTTP başlığındaki şifreli değerlerin
+çözülüp tutulacağı nesne olacaktır. 
+Sonrasında try catch programın hatalı durumlarla karşılaştığında düzgün bir şekilde tepki vermesini sağlar. Burada da işlemlerimizin
+çalışmasını düzenledik. Request.Headers["Authorization"] ifadesi, HTTP isteğinin başlıklarındaki "Authorization" başlığını alır.
+Bu başlık, genellikle kimlik doğrulama bilgilerini içerir .AuthenticationHeaderValue.Parse metodu, bu başlık değerini bir
+AuthenticationHeaderValue nesnesine dönüştürür. Bu nesne, kimlik doğrulama şeması ile birlikte gerekli parametreleri içerir.
+authHeader.Parameter, kimlik doğrulama başlığındaki Base64 kodlanmış kimlik bilgilerini içerir. Convert.FromBase64String metodu, 
+bu Base64 kodlu string'i byte dizisine dönüştürür.
+Encoding.UTF8.GetString metodu, byte dizisini UTF-8 karakter dizisine dönüştürür. Bu karakter dizisi, kullanıcı adı ve şifreyi 
+içerir. Split(new[] { ':' }, 2) metodu ise bu karakter dizisini iki parçaya böler; biri kullanıcı adı, diğeri ise şifreyi içerir. 
+Burada ':' karakteri, kullanıcı adı ve şifreyi ayıran sınırlayıcı olarak kullanılır.
+credentials dizisinin ilk elemanı kullanıcı adını içerir, ikinci elemanı ise şifreyi içerir. Bu nedenle, var username = credentials[0]; 
+ifadesi kullanıcı adını alır, var password = credentials[1]; ifadesi ise şifreyi alır.
+userService.Login(username, password) metodu, kullanıcı adı ve şifre ile giriş yapmayı dener. Bu işlem asenkron olduğu için
+await anahtar kelimesi kullanılarak metodun tamamlanması beklenir. Metodun döndürdüğü user nesnesi, kullanıcı doğrulaması 
+başarılıysa ilgili kullanıcı bilgilerini içerir; aksi takdirde null olabilir.
+"catch" bloğu, try bloğunda herhangi bir istisna meydana geldiğinde çalışır. Eğer bir hata oluşursa, AuthenticateResult.Fail 
+metodu çağrılır ve bir hata mesajı ("Invalid Authorization Header") ile birlikte kimlik doğrulamanın başarısız olduğu bildirilir.
+Sonrasında  Claim nesneleri ile kullanıcı adını içeren bir kimlik bilgisi (claims) oluşturulur. Ardından, bu kimlik bilgilerini
+kullanarak bir ClaimsIdentity nesnesi (identity) oluşturulur. Bu kimlik bilgileri, hangi kimlik doğrulama şeması 
+kullanıldığını belirten Scheme.Name ile birlikte tanımlanır. Daha sonra, bu kimlik nesnesi ile bir ClaimsPrincipal nesnesi 
+(principal) oluşturulur. Son olarak, ClaimsPrincipal ve kimlik doğrulama şeması kullanılarak bir AuthenticationTicket nesnesi 
+döndürülür.
+(ticket) oluşturulur. Bu bilet, kimlik doğrulamanın başarılı olduğunu belirtir ve AuthenticateResult.Success(ticket) ile sonuç 
+ 
+ --------------------------------------------------AuthenticationController------------------------------------------------------
+AuthenticationController sınıfı, kullanıcıların giriş yapabilmesi için bir API uç noktası sağlar. Bu denetleyici, IUserService 
+adlı bir hizmet aracılığıyla kullanıcı kimlik doğrulama işlemini gerçekleştirir.İlk olarak, AuthenticationController sınıfı,
+IUserService türünde bir bağımlılığı alır ve bu bağımlılığı yapıcı metodunda alır. Bu hizmet, kullanıcı bilgilerini
+doğrulama işlevini yerine getirir.Denetleyici içinde tanımlı olan Login metodu, HTTP POST isteği ile çağrılır ve kullanıcı adı
+ve şifre içeren bir UserModel nesnesini alır. Login metodu, IUserService'in Login metodunu kullanarak kullanıcının kimlik bilgilerini
+ doğrulamaya çalışır. Eğer kullanıcı bulunamazsa, "Kullanıcı adı veya şifre yanlış!" mesajı ile birlikte 404 Not Found yanıtı döner.
+ Kullanıcı doğrulaması başarılı ise, kullanıcının bilgileri 200 OK yanıtı ile birlikte döner.Bu yapı, genellikle kullanıcıların giriş
+ yapması ve kimlik doğrulama işlemlerini gerçekleştirmesi için kullanılır.
+ 
+ -------------------------------------------------StopajHesapContoller---------------------------------------------------------------
+StopajHesapController sınıfı, vergi hesaplama işlemleri için bir API uç noktası sağlar ve kimlik doğrulaması gerektirir.StopajHesapService adlı bir hizmeti kullanarak
+hesaplama işlemlerini gerçekleştirir. Yapıcı metodunda, bu hizmet sınıfı bir bağımlılık olarak alınır.
+Controller içinde tanımlı olan GetStopaj metodu, HTTP POST isteği ile çağrılır ve vergi hesaplama parametrelerini içeren bir ParametersModels
+nesnesini alır. Eğer bu model nesnesi null ise, yani gerekli veriler sağlanmamışsa, 400 Bad Request yanıtı ve "Eksik değer girmeyiniz" mesajı
+döner.Eğer model sağlanmışsa, _service.Hesapla(model) metodu kullanılarak hesaplama yapılır. Eğer hesaplama sonucu null dönerse, bu durumda 
+400 Bad Request yanıtı ve "Hatalı Tercih" mesajı döner. Hesaplama başarılı ise, sonuç 200 OK yanıtı ile birlikte döner.Bu yapı, genellikle
+API uç noktalarında vergi hesaplamaları gibi işlevsel işlemleri gerçekleştirmek ve kullanıcıdan gelen verilerin geçerliliğini kontrol etmek 
+için kullanılır. Kimlik doğrulama özelliği,[Authorize] niteliği ile sağlanır, bu da yalnızca kimlik doğrulaması yapılmış kullanıcıların bu denetleyiciye erişmesini sağlar.
+
+

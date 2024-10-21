@@ -1,0 +1,12 @@
+C:\Users\yzlstajyer\Desktop\Projects\ReflectionProject\ReflectionProject.Datas\bin\Debug\net8.0\ReflectionProject.Datas.deps.json
+C:\Users\yzlstajyer\Desktop\Projects\ReflectionProject\ReflectionProject.Datas\bin\Debug\net8.0\ReflectionProject.Datas.dll
+C:\Users\yzlstajyer\Desktop\Projects\ReflectionProject\ReflectionProject.Datas\bin\Debug\net8.0\ReflectionProject.Datas.pdb
+C:\Users\yzlstajyer\Desktop\Projects\ReflectionProject\ReflectionProject.Datas\obj\Debug\net8.0\ReflectionProject.Datas.csproj.AssemblyReference.cache
+C:\Users\yzlstajyer\Desktop\Projects\ReflectionProject\ReflectionProject.Datas\obj\Debug\net8.0\ReflectionProject.Datas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yzlstajyer\Desktop\Projects\ReflectionProject\ReflectionProject.Datas\obj\Debug\net8.0\ReflectionProject.Datas.AssemblyInfoInputs.cache
+C:\Users\yzlstajyer\Desktop\Projects\ReflectionProject\ReflectionProject.Datas\obj\Debug\net8.0\ReflectionProject.Datas.AssemblyInfo.cs
+C:\Users\yzlstajyer\Desktop\Projects\ReflectionProject\ReflectionProject.Datas\obj\Debug\net8.0\ReflectionProject.Datas.csproj.CoreCompileInputs.cache
+C:\Users\yzlstajyer\Desktop\Projects\ReflectionProject\ReflectionProject.Datas\obj\Debug\net8.0\ReflectionProject.Datas.dll
+C:\Users\yzlstajyer\Desktop\Projects\ReflectionProject\ReflectionProject.Datas\obj\Debug\net8.0\refint\ReflectionProject.Datas.dll
+C:\Users\yzlstajyer\Desktop\Projects\ReflectionProject\ReflectionProject.Datas\obj\Debug\net8.0\ReflectionProject.Datas.pdb
+C:\Users\yzlstajyer\Desktop\Projects\ReflectionProject\ReflectionProject.Datas\obj\Debug\net8.0\ref\ReflectionProject.Datas.dll

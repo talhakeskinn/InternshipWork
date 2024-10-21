@@ -1,0 +1,6 @@
+@StopajHesapAPI_HostAddress = http://localhost:5062
+
+GET {{StopajHesapAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

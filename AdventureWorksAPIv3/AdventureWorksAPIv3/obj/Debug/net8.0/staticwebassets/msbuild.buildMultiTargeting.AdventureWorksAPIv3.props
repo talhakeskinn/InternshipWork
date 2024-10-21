@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AdventureWorksAPIv3.props" />
+</Project>

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\SoapClientProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{231A205D-D285-4341-9B08-AEDF7206F026}|SoapClientProject\\SoapClientProject.csproj|C:\\Users\\yzlstajyer\\Desktop\\Projects\\SoapClientProject\\SoapClientProject\\Country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{231A205D-D285-4341-9B08-AEDF7206F026}|SoapClientProject\\SoapClientProject.csproj|solutionrelative:SoapClientProject\\Country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{231A205D-D285-4341-9B08-AEDF7206F026}|SoapClientProject\\SoapClientProject.csproj|c:\\users\\yzlstajyer\\desktop\\projects\\soapclientproject\\soapclientproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{231A205D-D285-4341-9B08-AEDF7206F026}|SoapClientProject\\SoapClientProject.csproj|solutionrelative:soapclientproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\SoapClientProject\\SoapClientProject\\Country.cs",
+              "RelativeDocumentMoniker": "SoapClientProject\\Country.cs",
+              "ToolTip": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\SoapClientProject\\SoapClientProject\\Country.cs",
+              "RelativeToolTip": "SoapClientProject\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:00:07.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\SoapClientProject\\SoapClientProject\\Program.cs",
+              "RelativeDocumentMoniker": "SoapClientProject\\Program.cs",
+              "ToolTip": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\SoapClientProject\\SoapClientProject\\Program.cs",
+              "RelativeToolTip": "SoapClientProject\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T16:29:58.102Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

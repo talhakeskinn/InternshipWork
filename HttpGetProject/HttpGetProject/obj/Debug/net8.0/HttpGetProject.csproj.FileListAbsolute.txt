@@ -1,0 +1,14 @@
+C:\Users\yzlstajyer\Desktop\Projects\HttpGetProject\HttpGetProject\bin\Debug\net8.0\HttpGetProject.exe
+C:\Users\yzlstajyer\Desktop\Projects\HttpGetProject\HttpGetProject\bin\Debug\net8.0\HttpGetProject.deps.json
+C:\Users\yzlstajyer\Desktop\Projects\HttpGetProject\HttpGetProject\bin\Debug\net8.0\HttpGetProject.runtimeconfig.json
+C:\Users\yzlstajyer\Desktop\Projects\HttpGetProject\HttpGetProject\bin\Debug\net8.0\HttpGetProject.dll
+C:\Users\yzlstajyer\Desktop\Projects\HttpGetProject\HttpGetProject\bin\Debug\net8.0\HttpGetProject.pdb
+C:\Users\yzlstajyer\Desktop\Projects\HttpGetProject\HttpGetProject\obj\Debug\net8.0\HttpGetProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yzlstajyer\Desktop\Projects\HttpGetProject\HttpGetProject\obj\Debug\net8.0\HttpGetProject.AssemblyInfoInputs.cache
+C:\Users\yzlstajyer\Desktop\Projects\HttpGetProject\HttpGetProject\obj\Debug\net8.0\HttpGetProject.AssemblyInfo.cs
+C:\Users\yzlstajyer\Desktop\Projects\HttpGetProject\HttpGetProject\obj\Debug\net8.0\HttpGetProject.csproj.CoreCompileInputs.cache
+C:\Users\yzlstajyer\Desktop\Projects\HttpGetProject\HttpGetProject\obj\Debug\net8.0\HttpGetProject.dll
+C:\Users\yzlstajyer\Desktop\Projects\HttpGetProject\HttpGetProject\obj\Debug\net8.0\refint\HttpGetProject.dll
+C:\Users\yzlstajyer\Desktop\Projects\HttpGetProject\HttpGetProject\obj\Debug\net8.0\HttpGetProject.pdb
+C:\Users\yzlstajyer\Desktop\Projects\HttpGetProject\HttpGetProject\obj\Debug\net8.0\HttpGetProject.genruntimeconfig.cache
+C:\Users\yzlstajyer\Desktop\Projects\HttpGetProject\HttpGetProject\obj\Debug\net8.0\ref\HttpGetProject.dll

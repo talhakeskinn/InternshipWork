@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TransectionProject",
+    "\\TransectionProject\\Controllers",
+    "\\TransectionProject\\Models",
+    "\\TransectionProject\\Properties",
+    "\\TransectionProject\\Services",
+    "\\TransectionProject\\Services\\Abstract",
+    "\\TransectionProject\\Services\\Concrete"
+  ],
+  "SelectedNode": "\\TransactionProject.sln",
+  "PreviewInSolutionExplorer": false
+}

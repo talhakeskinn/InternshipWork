@@ -1,0 +1,14 @@
+C:\Users\yzlstajyer\Desktop\SDs\SerializedDeserialized\bin\Debug\net8.0\SerializedDeserialized.exe
+C:\Users\yzlstajyer\Desktop\SDs\SerializedDeserialized\bin\Debug\net8.0\SerializedDeserialized.deps.json
+C:\Users\yzlstajyer\Desktop\SDs\SerializedDeserialized\bin\Debug\net8.0\SerializedDeserialized.runtimeconfig.json
+C:\Users\yzlstajyer\Desktop\SDs\SerializedDeserialized\bin\Debug\net8.0\SerializedDeserialized.dll
+C:\Users\yzlstajyer\Desktop\SDs\SerializedDeserialized\bin\Debug\net8.0\SerializedDeserialized.pdb
+C:\Users\yzlstajyer\Desktop\SDs\SerializedDeserialized\obj\Debug\net8.0\SerializedDeserialized.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yzlstajyer\Desktop\SDs\SerializedDeserialized\obj\Debug\net8.0\SerializedDeserialized.AssemblyInfoInputs.cache
+C:\Users\yzlstajyer\Desktop\SDs\SerializedDeserialized\obj\Debug\net8.0\SerializedDeserialized.AssemblyInfo.cs
+C:\Users\yzlstajyer\Desktop\SDs\SerializedDeserialized\obj\Debug\net8.0\SerializedDeserialized.csproj.CoreCompileInputs.cache
+C:\Users\yzlstajyer\Desktop\SDs\SerializedDeserialized\obj\Debug\net8.0\SerializedDeserialized.dll
+C:\Users\yzlstajyer\Desktop\SDs\SerializedDeserialized\obj\Debug\net8.0\refint\SerializedDeserialized.dll
+C:\Users\yzlstajyer\Desktop\SDs\SerializedDeserialized\obj\Debug\net8.0\SerializedDeserialized.pdb
+C:\Users\yzlstajyer\Desktop\SDs\SerializedDeserialized\obj\Debug\net8.0\SerializedDeserialized.genruntimeconfig.cache
+C:\Users\yzlstajyer\Desktop\SDs\SerializedDeserialized\obj\Debug\net8.0\ref\SerializedDeserialized.dll

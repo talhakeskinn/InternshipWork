@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "TransactionProject.Controllers.ProductController",
+    "Method": "SaveProduct",
+    "RelativePath": "api/Product/SaveProduct",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dtoProductCategory",
+        "Type": "TransactionProject.Models.DtoProductCategory",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

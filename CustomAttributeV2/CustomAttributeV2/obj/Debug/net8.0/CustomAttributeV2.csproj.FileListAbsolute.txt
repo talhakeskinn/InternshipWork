@@ -1,0 +1,14 @@
+C:\Users\yzlstajyer\Desktop\Projects\CustomAttributeV2\CustomAttributeV2\bin\Debug\net8.0\CustomAttributeV2.exe
+C:\Users\yzlstajyer\Desktop\Projects\CustomAttributeV2\CustomAttributeV2\bin\Debug\net8.0\CustomAttributeV2.deps.json
+C:\Users\yzlstajyer\Desktop\Projects\CustomAttributeV2\CustomAttributeV2\bin\Debug\net8.0\CustomAttributeV2.runtimeconfig.json
+C:\Users\yzlstajyer\Desktop\Projects\CustomAttributeV2\CustomAttributeV2\bin\Debug\net8.0\CustomAttributeV2.dll
+C:\Users\yzlstajyer\Desktop\Projects\CustomAttributeV2\CustomAttributeV2\bin\Debug\net8.0\CustomAttributeV2.pdb
+C:\Users\yzlstajyer\Desktop\Projects\CustomAttributeV2\CustomAttributeV2\obj\Debug\net8.0\CustomAttributeV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yzlstajyer\Desktop\Projects\CustomAttributeV2\CustomAttributeV2\obj\Debug\net8.0\CustomAttributeV2.AssemblyInfoInputs.cache
+C:\Users\yzlstajyer\Desktop\Projects\CustomAttributeV2\CustomAttributeV2\obj\Debug\net8.0\CustomAttributeV2.AssemblyInfo.cs
+C:\Users\yzlstajyer\Desktop\Projects\CustomAttributeV2\CustomAttributeV2\obj\Debug\net8.0\CustomAttributeV2.csproj.CoreCompileInputs.cache
+C:\Users\yzlstajyer\Desktop\Projects\CustomAttributeV2\CustomAttributeV2\obj\Debug\net8.0\CustomAttributeV2.dll
+C:\Users\yzlstajyer\Desktop\Projects\CustomAttributeV2\CustomAttributeV2\obj\Debug\net8.0\refint\CustomAttributeV2.dll
+C:\Users\yzlstajyer\Desktop\Projects\CustomAttributeV2\CustomAttributeV2\obj\Debug\net8.0\CustomAttributeV2.pdb
+C:\Users\yzlstajyer\Desktop\Projects\CustomAttributeV2\CustomAttributeV2\obj\Debug\net8.0\CustomAttributeV2.genruntimeconfig.cache
+C:\Users\yzlstajyer\Desktop\Projects\CustomAttributeV2\CustomAttributeV2\obj\Debug\net8.0\ref\CustomAttributeV2.dll

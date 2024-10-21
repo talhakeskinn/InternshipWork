@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\StopajHesapAPI",
+    "\\src\\StopajHesapAPI\\StopajHesapAPI",
+    "\\src\\StopajHesapAPI\\StopajHesapAPI\\Controllers",
+    "\\src\\StopajHesapAPI\\StopajHesapAPI\\Handlers",
+    "\\src\\StopajHesapAPI\\StopajHesapAPI\\Middlewares",
+    "\\src\\StopajHesapAPI\\StopajHesapAPI\\Models",
+    "\\src\\StopajHesapAPI\\StopajHesapAPI\\obj",
+    "\\src\\StopajHesapAPI\\StopajHesapAPI\\Properties"
+  ],
+  "SelectedNode": "\\src\\StopajHesapAPI\\StopajHesapAPI\\Handlers\\BasicAuthenticationHandler.cs",
+  "PreviewInSolutionExplorer": false
+}

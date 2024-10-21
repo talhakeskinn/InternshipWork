@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\CustomAttributeV2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4126BD4B-B404-4943-B75D-919A50055595}|PermissionAttributeProject\\PermissionAttributeProject.csproj|c:\\users\\yzlstajyer\\desktop\\projects\\customattributev2\\permissionattributeproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4126BD4B-B404-4943-B75D-919A50055595}|PermissionAttributeProject\\PermissionAttributeProject.csproj|solutionrelative:permissionattributeproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4126BD4B-B404-4943-B75D-919A50055595}|PermissionAttributeProject\\PermissionAttributeProject.csproj|c:\\users\\yzlstajyer\\desktop\\projects\\customattributev2\\permissionattributeproject\\permissionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4126BD4B-B404-4943-B75D-919A50055595}|PermissionAttributeProject\\PermissionAttributeProject.csproj|solutionrelative:permissionattributeproject\\permissionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4126BD4B-B404-4943-B75D-919A50055595}|PermissionAttributeProject\\PermissionAttributeProject.csproj|c:\\users\\yzlstajyer\\desktop\\projects\\customattributev2\\permissionattributeproject\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4126BD4B-B404-4943-B75D-919A50055595}|PermissionAttributeProject\\PermissionAttributeProject.csproj|solutionrelative:permissionattributeproject\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4126BD4B-B404-4943-B75D-919A50055595}|PermissionAttributeProject\\PermissionAttributeProject.csproj|c:\\users\\yzlstajyer\\desktop\\projects\\customattributev2\\permissionattributeproject\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4126BD4B-B404-4943-B75D-919A50055595}|PermissionAttributeProject\\PermissionAttributeProject.csproj|solutionrelative:permissionattributeproject\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B51E89-6FDA-4E7A-9B00-12545CE634B1}|CustomAttributeV2\\CustomAttributeV2.csproj|c:\\users\\yzlstajyer\\desktop\\projects\\customattributev2\\customattributev2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B51E89-6FDA-4E7A-9B00-12545CE634B1}|CustomAttributeV2\\CustomAttributeV2.csproj|solutionrelative:customattributev2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B51E89-6FDA-4E7A-9B00-12545CE634B1}|CustomAttributeV2\\CustomAttributeV2.csproj|c:\\users\\yzlstajyer\\desktop\\projects\\customattributev2\\customattributev2\\customattributev2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{20B51E89-6FDA-4E7A-9B00-12545CE634B1}|CustomAttributeV2\\CustomAttributeV2.csproj|solutionrelative:customattributev2\\customattributev2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4126BD4B-B404-4943-B75D-919A50055595}|PermissionAttributeProject\\PermissionAttributeProject.csproj|c:\\users\\yzlstajyer\\desktop\\projects\\customattributev2\\permissionattributeproject\\permissionattributeproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4126BD4B-B404-4943-B75D-919A50055595}|PermissionAttributeProject\\PermissionAttributeProject.csproj|solutionrelative:permissionattributeproject\\permissionattributeproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\CustomAttributeV2\\PermissionAttributeProject\\Models.cs",
+              "RelativeDocumentMoniker": "PermissionAttributeProject\\Models.cs",
+              "ToolTip": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\CustomAttributeV2\\PermissionAttributeProject\\Models.cs",
+              "RelativeToolTip": "PermissionAttributeProject\\Models.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:22:06.005Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PermissionAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\CustomAttributeV2\\PermissionAttributeProject\\PermissionAttribute.cs",
+              "RelativeDocumentMoniker": "PermissionAttributeProject\\PermissionAttribute.cs",
+              "ToolTip": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\CustomAttributeV2\\PermissionAttributeProject\\PermissionAttribute.cs",
+              "RelativeToolTip": "PermissionAttributeProject\\PermissionAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:24:25.162Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\CustomAttributeV2\\PermissionAttributeProject\\Program.cs",
+              "RelativeDocumentMoniker": "PermissionAttributeProject\\Program.cs",
+              "ToolTip": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\CustomAttributeV2\\PermissionAttributeProject\\Program.cs",
+              "RelativeToolTip": "PermissionAttributeProject\\Program.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T13:50:08.158Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PermissionAttributeProject",
+              "DocumentMoniker": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\CustomAttributeV2\\PermissionAttributeProject\\PermissionAttributeProject.csproj",
+              "RelativeDocumentMoniker": "PermissionAttributeProject\\PermissionAttributeProject.csproj",
+              "ToolTip": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\CustomAttributeV2\\PermissionAttributeProject\\PermissionAttributeProject.csproj",
+              "RelativeToolTip": "PermissionAttributeProject\\PermissionAttributeProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-21T10:55:52.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\CustomAttributeV2\\CustomAttributeV2\\Program.cs",
+              "RelativeDocumentMoniker": "CustomAttributeV2\\Program.cs",
+              "ToolTip": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\CustomAttributeV2\\CustomAttributeV2\\Program.cs",
+              "RelativeToolTip": "CustomAttributeV2\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:06:38.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomAttributeV2.csproj",
+              "DocumentMoniker": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\CustomAttributeV2\\CustomAttributeV2\\CustomAttributeV2.csproj",
+              "RelativeDocumentMoniker": "CustomAttributeV2\\CustomAttributeV2.csproj",
+              "ToolTip": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\CustomAttributeV2\\CustomAttributeV2\\CustomAttributeV2.csproj",
+              "RelativeToolTip": "CustomAttributeV2\\CustomAttributeV2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-18T08:06:35.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\CustomAttributeV2\\PermissionAttributeProject\\Data.cs",
+              "RelativeDocumentMoniker": "PermissionAttributeProject\\Data.cs",
+              "ToolTip": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\CustomAttributeV2\\PermissionAttributeProject\\Data.cs",
+              "RelativeToolTip": "PermissionAttributeProject\\Data.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:25:47.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\StopajAPI-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yzlstajyer\\Desktop\\Projects\\StopajAPI-main\\src\\StopajHesapAPI\\StopajHesapAPI\\Controllers\\SecureBaseController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\StopajHesapAPI\\StopajHesapAPI\\Controllers\\SecureBaseController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yzlstajyer\\Desktop\\Projects\\StopajAPI-main\\src\\StopajHesapAPI\\StopajHesapAPI\\Controllers\\StopajHesapController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\StopajHesapAPI\\StopajHesapAPI\\Controllers\\StopajHesapController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yzlstajyer\\Desktop\\Projects\\StopajAPI-main\\src\\StopajHesapAPI\\StopajHesapAPI\\Entities\\RequestStopaj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\StopajHesapAPI\\StopajHesapAPI\\Entities\\RequestStopaj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yzlstajyer\\Desktop\\Projects\\StopajAPI-main\\src\\StopajHesapAPI\\StopajHesapAPI\\Controllers\\KdvContreller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\StopajHesapAPI\\StopajHesapAPI\\Controllers\\KdvContreller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yzlstajyer\\Desktop\\Projects\\StopajAPI-main\\src\\StopajHesapAPI\\StopajHesapAPI\\Handlers\\BasicAuthenticationHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\StopajHesapAPI\\StopajHesapAPI\\Handlers\\BasicAuthenticationHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yzlstajyer\\Desktop\\Projects\\StopajAPI-main\\src\\StopajHesapAPI\\StopajHesapAPI\\Middlewares\\GlobalExceptionHandlingMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\StopajHesapAPI\\StopajHesapAPI\\Middlewares\\GlobalExceptionHandlingMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yzlstajyer\\Desktop\\Projects\\StopajAPI-main\\src\\StopajHesapAPI\\StopajHesapAPI\\Models\\UserModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\StopajHesapAPI\\StopajHesapAPI\\Models\\UserModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yzlstajyer\\Desktop\\Projects\\StopajAPI-main\\src\\StopajHesapAPI\\StopajHesapAPI\\Models\\ResponseStopaj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\StopajHesapAPI\\StopajHesapAPI\\Models\\ResponseStopaj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yzlstajyer\\Desktop\\Projects\\StopajAPI-main\\src\\StopajHesapAPI\\StopajHesapAPI\\Models\\ErrorDetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\StopajHesapAPI\\StopajHesapAPI\\Models\\ErrorDetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KdvContreller.cs",
+              "DocumentMoniker": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\StopajAPI-main\\src\\StopajHesapAPI\\StopajHesapAPI\\Controllers\\KdvContreller.cs",
+              "RelativeDocumentMoniker": "src\\StopajHesapAPI\\StopajHesapAPI\\Controllers\\KdvContreller.cs",
+              "ToolTip": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\StopajAPI-main\\src\\StopajHesapAPI\\StopajHesapAPI\\Controllers\\KdvContreller.cs",
+              "RelativeToolTip": "src\\StopajHesapAPI\\StopajHesapAPI\\Controllers\\KdvContreller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:11:09.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SecureBaseController.cs",
+              "DocumentMoniker": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\StopajAPI-main\\src\\StopajHesapAPI\\StopajHesapAPI\\Controllers\\SecureBaseController.cs",
+              "RelativeDocumentMoniker": "src\\StopajHesapAPI\\StopajHesapAPI\\Controllers\\SecureBaseController.cs",
+              "ToolTip": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\StopajAPI-main\\src\\StopajHesapAPI\\StopajHesapAPI\\Controllers\\SecureBaseController.cs",
+              "RelativeToolTip": "src\\StopajHesapAPI\\StopajHesapAPI\\Controllers\\SecureBaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:11:09.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StopajHesapController.cs",
+              "DocumentMoniker": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\StopajAPI-main\\src\\StopajHesapAPI\\StopajHesapAPI\\Controllers\\StopajHesapController.cs",
+              "RelativeDocumentMoniker": "src\\StopajHesapAPI\\StopajHesapAPI\\Controllers\\StopajHesapController.cs",
+              "ToolTip": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\StopajAPI-main\\src\\StopajHesapAPI\\StopajHesapAPI\\Controllers\\StopajHesapController.cs",
+              "RelativeToolTip": "src\\StopajHesapAPI\\StopajHesapAPI\\Controllers\\StopajHesapController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:11:08.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BasicAuthenticationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\StopajAPI-main\\src\\StopajHesapAPI\\StopajHesapAPI\\Handlers\\BasicAuthenticationHandler.cs",
+              "RelativeDocumentMoniker": "src\\StopajHesapAPI\\StopajHesapAPI\\Handlers\\BasicAuthenticationHandler.cs",
+              "ToolTip": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\StopajAPI-main\\src\\StopajHesapAPI\\StopajHesapAPI\\Handlers\\BasicAuthenticationHandler.cs",
+              "RelativeToolTip": "src\\StopajHesapAPI\\StopajHesapAPI\\Handlers\\BasicAuthenticationHandler.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:10:49.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RequestStopaj.cs",
+              "DocumentMoniker": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\StopajAPI-main\\src\\StopajHesapAPI\\StopajHesapAPI\\Entities\\RequestStopaj.cs",
+              "RelativeDocumentMoniker": "src\\StopajHesapAPI\\StopajHesapAPI\\Entities\\RequestStopaj.cs",
+              "ToolTip": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\StopajAPI-main\\src\\StopajHesapAPI\\StopajHesapAPI\\Entities\\RequestStopaj.cs",
+              "RelativeToolTip": "src\\StopajHesapAPI\\StopajHesapAPI\\Entities\\RequestStopaj.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:08:22.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GlobalExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\StopajAPI-main\\src\\StopajHesapAPI\\StopajHesapAPI\\Middlewares\\GlobalExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "src\\StopajHesapAPI\\StopajHesapAPI\\Middlewares\\GlobalExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\StopajAPI-main\\src\\StopajHesapAPI\\StopajHesapAPI\\Middlewares\\GlobalExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "src\\StopajHesapAPI\\StopajHesapAPI\\Middlewares\\GlobalExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:10:30.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\StopajAPI-main\\src\\StopajHesapAPI\\StopajHesapAPI\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "src\\StopajHesapAPI\\StopajHesapAPI\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\StopajAPI-main\\src\\StopajHesapAPI\\StopajHesapAPI\\Models\\UserModel.cs",
+              "RelativeToolTip": "src\\StopajHesapAPI\\StopajHesapAPI\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:10:28.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResponseStopaj.cs",
+              "DocumentMoniker": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\StopajAPI-main\\src\\StopajHesapAPI\\StopajHesapAPI\\Models\\ResponseStopaj.cs",
+              "RelativeDocumentMoniker": "src\\StopajHesapAPI\\StopajHesapAPI\\Models\\ResponseStopaj.cs",
+              "ToolTip": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\StopajAPI-main\\src\\StopajHesapAPI\\StopajHesapAPI\\Models\\ResponseStopaj.cs",
+              "RelativeToolTip": "src\\StopajHesapAPI\\StopajHesapAPI\\Models\\ResponseStopaj.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:10:26.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorDetails.cs",
+              "DocumentMoniker": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\StopajAPI-main\\src\\StopajHesapAPI\\StopajHesapAPI\\Models\\ErrorDetails.cs",
+              "RelativeDocumentMoniker": "src\\StopajHesapAPI\\StopajHesapAPI\\Models\\ErrorDetails.cs",
+              "ToolTip": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\StopajAPI-main\\src\\StopajHesapAPI\\StopajHesapAPI\\Models\\ErrorDetails.cs",
+              "RelativeToolTip": "src\\StopajHesapAPI\\StopajHesapAPI\\Models\\ErrorDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:10:25.73Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

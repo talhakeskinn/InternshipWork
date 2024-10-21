@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\SoapCalculatorProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F67A6A-7FD0-4E4C-9564-764498B386DB}|CalculatorProject\\CalculatorProject.csproj|c:\\users\\yzlstajyer\\desktop\\projects\\soapcalculatorproject\\calculatorproject\\services\\concrete\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F67A6A-7FD0-4E4C-9564-764498B386DB}|CalculatorProject\\CalculatorProject.csproj|solutionrelative:calculatorproject\\services\\concrete\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F67A6A-7FD0-4E4C-9564-764498B386DB}|CalculatorProject\\CalculatorProject.csproj|c:\\users\\yzlstajyer\\desktop\\projects\\soapcalculatorproject\\calculatorproject\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F67A6A-7FD0-4E4C-9564-764498B386DB}|CalculatorProject\\CalculatorProject.csproj|solutionrelative:calculatorproject\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F67A6A-7FD0-4E4C-9564-764498B386DB}|CalculatorProject\\CalculatorProject.csproj|c:\\users\\yzlstajyer\\desktop\\projects\\soapcalculatorproject\\calculatorproject\\models\\requestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F67A6A-7FD0-4E4C-9564-764498B386DB}|CalculatorProject\\CalculatorProject.csproj|solutionrelative:calculatorproject\\models\\requestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F67A6A-7FD0-4E4C-9564-764498B386DB}|CalculatorProject\\CalculatorProject.csproj|c:\\users\\yzlstajyer\\desktop\\projects\\soapcalculatorproject\\calculatorproject\\connected services\\calculatorsoapservicereferans\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F67A6A-7FD0-4E4C-9564-764498B386DB}|CalculatorProject\\CalculatorProject.csproj|solutionrelative:calculatorproject\\connected services\\calculatorsoapservicereferans\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\SoapCalculatorProject\\CalculatorProject\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "CalculatorProject\\Controllers\\CalculatorController.cs",
+              "ToolTip": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\SoapCalculatorProject\\CalculatorProject\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "CalculatorProject\\Controllers\\CalculatorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:32:08.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\SoapCalculatorProject\\CalculatorProject\\Services\\Concrete\\CalculatorService.cs",
+              "RelativeDocumentMoniker": "CalculatorProject\\Services\\Concrete\\CalculatorService.cs",
+              "ToolTip": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\SoapCalculatorProject\\CalculatorProject\\Services\\Concrete\\CalculatorService.cs",
+              "RelativeToolTip": "CalculatorProject\\Services\\Concrete\\CalculatorService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowCUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:03:53.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\SoapCalculatorProject\\CalculatorProject\\Models\\RequestModel.cs",
+              "RelativeDocumentMoniker": "CalculatorProject\\Models\\RequestModel.cs",
+              "ToolTip": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\SoapCalculatorProject\\CalculatorProject\\Models\\RequestModel.cs",
+              "RelativeToolTip": "CalculatorProject\\Models\\RequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:03:46.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reference.cs",
+              "DocumentMoniker": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\SoapCalculatorProject\\CalculatorProject\\Connected Services\\CalculatorSoapServiceReferans\\Reference.cs",
+              "RelativeDocumentMoniker": "CalculatorProject\\Connected Services\\CalculatorSoapServiceReferans\\Reference.cs",
+              "ToolTip": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\SoapCalculatorProject\\CalculatorProject\\Connected Services\\CalculatorSoapServiceReferans\\Reference.cs",
+              "RelativeToolTip": "CalculatorProject\\Connected Services\\CalculatorSoapServiceReferans\\Reference.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:03:42.938Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\TransactionProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2F94BD-20F6-49DA-973F-73BC992668C5}|TransectionProject\\TransactionProject.csproj|c:\\users\\yzlstajyer\\desktop\\projects\\transactionproject\\transectionproject\\services\\concrete\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2F94BD-20F6-49DA-973F-73BC992668C5}|TransectionProject\\TransactionProject.csproj|solutionrelative:transectionproject\\services\\concrete\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2F94BD-20F6-49DA-973F-73BC992668C5}|TransectionProject\\TransactionProject.csproj|c:\\users\\yzlstajyer\\desktop\\projects\\transactionproject\\transectionproject\\models\\dtoproductcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2F94BD-20F6-49DA-973F-73BC992668C5}|TransectionProject\\TransactionProject.csproj|solutionrelative:transectionproject\\models\\dtoproductcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2F94BD-20F6-49DA-973F-73BC992668C5}|TransectionProject\\TransactionProject.csproj|c:\\users\\yzlstajyer\\desktop\\projects\\transactionproject\\transectionproject\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2F94BD-20F6-49DA-973F-73BC992668C5}|TransectionProject\\TransactionProject.csproj|solutionrelative:transectionproject\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2F94BD-20F6-49DA-973F-73BC992668C5}|TransectionProject\\TransactionProject.csproj|c:\\users\\yzlstajyer\\desktop\\projects\\transactionproject\\transectionproject\\services\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2F94BD-20F6-49DA-973F-73BC992668C5}|TransectionProject\\TransactionProject.csproj|solutionrelative:transectionproject\\services\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2F94BD-20F6-49DA-973F-73BC992668C5}|TransectionProject\\TransactionProject.csproj|c:\\users\\yzlstajyer\\desktop\\projects\\transactionproject\\transectionproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2F94BD-20F6-49DA-973F-73BC992668C5}|TransectionProject\\TransactionProject.csproj|solutionrelative:transectionproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yzlstajyer\\Desktop\\Projects\\TransactionProject\\TransectionProject\\Controllers\\AddDataController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TransectionProject\\Controllers\\AddDataController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/transection_project/True/SqlTable/dbo.Product.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2F94BD-20F6-49DA-973F-73BC992668C5}|TransectionProject\\TransactionProject.csproj|c:\\users\\yzlstajyer\\desktop\\projects\\transactionproject\\transectionproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2F94BD-20F6-49DA-973F-73BC992668C5}|TransectionProject\\TransactionProject.csproj|solutionrelative:transectionproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IproductService.cs",
+              "DocumentMoniker": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\TransactionProject\\TransectionProject\\Services\\Abstract\\IproductService.cs",
+              "RelativeDocumentMoniker": "TransectionProject\\Services\\Abstract\\IproductService.cs",
+              "ToolTip": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\TransactionProject\\TransectionProject\\Services\\Abstract\\IproductService.cs",
+              "RelativeToolTip": "TransectionProject\\Services\\Abstract\\IproductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:22:00.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.Product.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/transection_project/True/SqlTable/dbo.Product.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/transection_project/True/SqlTable/dbo.Product.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-28T18:43:22.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\TransactionProject\\TransectionProject\\Program.cs",
+              "RelativeDocumentMoniker": "TransectionProject\\Program.cs",
+              "ToolTip": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\TransactionProject\\TransectionProject\\Program.cs",
+              "RelativeToolTip": "TransectionProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T18:31:32.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\TransactionProject\\TransectionProject\\Services\\Concrete\\ProductService.cs",
+              "RelativeDocumentMoniker": "TransectionProject\\Services\\Concrete\\ProductService.cs",
+              "ToolTip": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\TransactionProject\\TransectionProject\\Services\\Concrete\\ProductService.cs",
+              "RelativeToolTip": "TransectionProject\\Services\\Concrete\\ProductService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:06:34.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\TransactionProject\\TransectionProject\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "TransectionProject\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\TransactionProject\\TransectionProject\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "TransectionProject\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:07:16.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\TransactionProject\\TransectionProject\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "TransectionProject\\Models\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\TransactionProject\\TransectionProject\\Models\\ProductModel.cs",
+              "RelativeToolTip": "TransectionProject\\Models\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T14:15:58.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DtoProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\TransactionProject\\TransectionProject\\Models\\DtoProductCategory.cs",
+              "RelativeDocumentMoniker": "TransectionProject\\Models\\DtoProductCategory.cs",
+              "ToolTip": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\TransactionProject\\TransectionProject\\Models\\DtoProductCategory.cs",
+              "RelativeToolTip": "TransectionProject\\Models\\DtoProductCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:10:00.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddDataController.cs",
+              "DocumentMoniker": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\TransactionProject\\TransectionProject\\Controllers\\AddDataController.cs",
+              "RelativeDocumentMoniker": "TransectionProject\\Controllers\\AddDataController.cs",
+              "ToolTip": "C:\\Users\\yzlstajyer\\Desktop\\Projects\\TransactionProject\\TransectionProject\\Controllers\\AddDataController.cs",
+              "RelativeToolTip": "TransectionProject\\Controllers\\AddDataController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:01:02.139Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

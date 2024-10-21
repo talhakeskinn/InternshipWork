@@ -1,0 +1,7 @@
+C:\Users\yzlstajyer\Desktop\Projects\TransactionScopeProject\TransactionScopeProject\bin\Debug\TransactionScopeProject.exe.config
+C:\Users\yzlstajyer\Desktop\Projects\TransactionScopeProject\TransactionScopeProject\bin\Debug\TransactionScopeProject.exe
+C:\Users\yzlstajyer\Desktop\Projects\TransactionScopeProject\TransactionScopeProject\bin\Debug\TransactionScopeProject.pdb
+C:\Users\yzlstajyer\Desktop\Projects\TransactionScopeProject\TransactionScopeProject\obj\Debug\TransactionScopeProject.csproj.AssemblyReference.cache
+C:\Users\yzlstajyer\Desktop\Projects\TransactionScopeProject\TransactionScopeProject\obj\Debug\TransactionScopeProject.csproj.CoreCompileInputs.cache
+C:\Users\yzlstajyer\Desktop\Projects\TransactionScopeProject\TransactionScopeProject\obj\Debug\TransactionScopeProject.exe
+C:\Users\yzlstajyer\Desktop\Projects\TransactionScopeProject\TransactionScopeProject\obj\Debug\TransactionScopeProject.pdb

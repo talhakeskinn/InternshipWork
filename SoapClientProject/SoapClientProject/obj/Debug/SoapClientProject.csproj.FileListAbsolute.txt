@@ -1,0 +1,7 @@
+C:\Users\yzlstajyer\Desktop\Projects\SoapClientProject\SoapClientProject\bin\Debug\SoapClientProject.exe.config
+C:\Users\yzlstajyer\Desktop\Projects\SoapClientProject\SoapClientProject\bin\Debug\SoapClientProject.exe
+C:\Users\yzlstajyer\Desktop\Projects\SoapClientProject\SoapClientProject\bin\Debug\SoapClientProject.pdb
+C:\Users\yzlstajyer\Desktop\Projects\SoapClientProject\SoapClientProject\obj\Debug\SoapClientProject.csproj.AssemblyReference.cache
+C:\Users\yzlstajyer\Desktop\Projects\SoapClientProject\SoapClientProject\obj\Debug\SoapClientProject.csproj.CoreCompileInputs.cache
+C:\Users\yzlstajyer\Desktop\Projects\SoapClientProject\SoapClientProject\obj\Debug\SoapClientProject.exe
+C:\Users\yzlstajyer\Desktop\Projects\SoapClientProject\SoapClientProject\obj\Debug\SoapClientProject.pdb

@@ -1,0 +1,14 @@
+C:\Users\tk\Desktop\SolmazProject\Win32App\Win32App\bin\Debug\net8.0\Win32App.exe
+C:\Users\tk\Desktop\SolmazProject\Win32App\Win32App\bin\Debug\net8.0\Win32App.deps.json
+C:\Users\tk\Desktop\SolmazProject\Win32App\Win32App\bin\Debug\net8.0\Win32App.runtimeconfig.json
+C:\Users\tk\Desktop\SolmazProject\Win32App\Win32App\bin\Debug\net8.0\Win32App.dll
+C:\Users\tk\Desktop\SolmazProject\Win32App\Win32App\bin\Debug\net8.0\Win32App.pdb
+C:\Users\tk\Desktop\SolmazProject\Win32App\Win32App\obj\Debug\net8.0\Win32App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tk\Desktop\SolmazProject\Win32App\Win32App\obj\Debug\net8.0\Win32App.AssemblyInfoInputs.cache
+C:\Users\tk\Desktop\SolmazProject\Win32App\Win32App\obj\Debug\net8.0\Win32App.AssemblyInfo.cs
+C:\Users\tk\Desktop\SolmazProject\Win32App\Win32App\obj\Debug\net8.0\Win32App.csproj.CoreCompileInputs.cache
+C:\Users\tk\Desktop\SolmazProject\Win32App\Win32App\obj\Debug\net8.0\Win32App.dll
+C:\Users\tk\Desktop\SolmazProject\Win32App\Win32App\obj\Debug\net8.0\refint\Win32App.dll
+C:\Users\tk\Desktop\SolmazProject\Win32App\Win32App\obj\Debug\net8.0\Win32App.pdb
+C:\Users\tk\Desktop\SolmazProject\Win32App\Win32App\obj\Debug\net8.0\Win32App.genruntimeconfig.cache
+C:\Users\tk\Desktop\SolmazProject\Win32App\Win32App\obj\Debug\net8.0\ref\Win32App.dll
